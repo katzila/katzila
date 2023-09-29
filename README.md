@@ -23,6 +23,8 @@ My recent accomplishments include developing a React UI library with Storybook t
 <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-fcdc00?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img alt="Zustand" src="https://img.shields.io/badge/-Zustand-black?style=flat-square" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
