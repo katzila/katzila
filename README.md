@@ -1,7 +1,7 @@
 ## Hey 👋 i'm Andrei
 I am a React Developer at Startext. 
 
-My recent accomplishments include developing a React UI library with Storybook to optimize problem-solving, rebuilding legacy applications using my self-made React UI libraries, and leading the successful migration of a 5-year-old an 6-year-old React applications to a new self-made React UI library. I'm well-versed in TypeScript, JavaScript, EmotionJS, and React Query.
+My recent accomplishments include developing a React UI library with Storybook to optimize problem-solving, rebuilding legacy applications using my self-made React UI libraries, and leading the successful migration of a 5-year-old and 6-year-old React applications to a new self-made React UI library. I'm well-versed in TypeScript, JavaScript, EmotionJS, and React Query.
 
 
 ### Contact Me
