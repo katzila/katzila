@@ -36,7 +36,7 @@ My recent accomplishments include developing a React UI library with Storybook t
   </thead>
   <tbody>
     <tr>
-      <td><a href="https:/github.com/katzila/chemistry"><b>Tutors</b></a></td>
+      <td><a href="https:/github.com/katzila/chemistry"><b>Handbook of chemistry</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/katzila/chemistry?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/katzila/chemistry?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/katzila/chemistry?style=flat-square&labelColor=343b41"/></td>
